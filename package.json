@@ -127,7 +127,7 @@
     "@storybook/addon-controls": "6.3.13",
     "@storybook/addon-ondevice-actions": "6.0.1-beta.5",
     "@storybook/addon-ondevice-controls": "6.0.1-beta.5",
-    "@storybook/react-native": "6.0.1-beta.5",
+    "@storybook/react-native": "6.5.0",
     "@styled-system/theme-get": "5.1.2",
     "algoliasearch": "4.10.3",
     "autosuggest-highlight": "3.1.1",
